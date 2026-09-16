@@ -3,11 +3,6 @@ __pycache__/
 *.pyc
 .vscode/
 
-# Datasets
-*.csv
-*.h5
-*.npz
-
 # PyTorch / Keras / VGG Model Checkpoints
 *.pth
 *.pt
