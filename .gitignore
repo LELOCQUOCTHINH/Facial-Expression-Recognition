@@ -1,0 +1,17 @@
+# Cache & IDE
+__pycache__/
+*.pyc
+.vscode/
+
+# Datasets
+*.csv
+*.h5
+*.npz
+
+# PyTorch / Keras / VGG Model Checkpoints
+*.pth
+*.pt
+*.onnx
+*.bin
+*.weights
+models/
